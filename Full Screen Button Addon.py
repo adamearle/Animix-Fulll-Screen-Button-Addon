@@ -2,7 +2,7 @@ bl_info = {
     "name": "AniMix Fullscreen Button",
     "author": "Adam Earle",
     "version": (1, 0),
-    "blender": (2, 93, 0),
+    "blender": (3, 00, 0),
     "location": "Topbar > Main Window",
     "description": "Adds fullscreen button to the far right of the topbar",
     "category": "UI",
