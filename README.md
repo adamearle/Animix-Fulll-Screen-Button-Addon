@@ -1,4 +1,4 @@
-# Animix Fulll creen Button Addon
+# Animix Fulll Screen Button Addon
 The addon expose the fullscreen button in the main window topbar making for a more immersive and focused experience while working.
 
 ***
